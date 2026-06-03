@@ -17,7 +17,10 @@ Most of my recent work circles one idea: **keep determinism in charge, and let t
 - 🧪 **[testzeus-mcp](https://github.com/koishore/testzeus-mcp)** — an MCP server that exposes a real end-to-end testing engine to Claude Desktop / Cursor / VSCode, so you author and run E2E tests in plain English.
   `Python` · `FastMCP` · `TypeScript`
 
-*Also in the works (private for now): LLM-observability and fintech-audit tooling.*
+<p align="center">
+  <img height="150" alt="GitHub stats (private contributions included)" src="https://github-readme-stats.vercel.app/api?username=koishore&show_icons=true&count_private=true&hide=stars&theme=default" />
+  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koishore&layout=compact&langs_count=6&theme=default" />
+</p>
 
 ---
 
@@ -26,6 +29,3 @@ Most of my recent work circles one idea: **keep determinism in charge, and let t
 
 ### 📫 Reach me
 **[Portfolio](https://koishore-portfolio.vercel.app)** · **[koishore@gmail.com](mailto:koishore@gmail.com)** — happy to talk AI infra, security, and agent tooling.
-
----
-<sub>Profile built around my actual work — <a href="https://github.com/koishore?tab=repositories">all repos →</a></sub>
