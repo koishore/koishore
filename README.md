@@ -17,11 +17,6 @@ Most of my recent work circles one idea: **keep determinism in charge, and let t
 - 🧪 **[testzeus-mcp](https://github.com/koishore/testzeus-mcp)** — an MCP server that exposes a real end-to-end testing engine to Claude Desktop / Cursor / VSCode, so you author and run E2E tests in plain English.
   `Python` · `FastMCP` · `TypeScript`
 
-<p align="center">
-  <img height="150" alt="GitHub stats (private contributions included)" src="https://github-readme-stats.vercel.app/api?username=koishore&show_icons=true&count_private=true&hide=stars&theme=default" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koishore&layout=compact&langs_count=6&theme=default" />
-</p>
-
 ---
 
 ### 🧰 Tech
